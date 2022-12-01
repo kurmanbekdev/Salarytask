@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        System.out.println("Please enter 3 numbers : ");
         int a, b, c;
         a = in.nextInt();
         b = in.nextInt();
